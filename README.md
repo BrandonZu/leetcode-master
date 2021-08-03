@@ -1,29 +1,3 @@
-## 一些闲话：
-
-> 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
-> 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
-> 3. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
-> 3. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
-> 4. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
-> 5. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
-
-<p align="center">
-<a href="https://github.com/youngyangyang04/leetcode-master" target="_blank">
-	<img src="https://img-blog.csdnimg.cn/20210318112734278.png" width="300"/>
-</a>
-
-<p align="center">
-  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
-</p>
-<p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
-	<img src="./pics/知识星球.png" width="600"/>
-</a>
-
-
 # LeetCode 刷题攻略
 
 ## 刷题攻略的背景
@@ -50,10 +24,6 @@
 
 如果你在刷leetcode，强烈建议先按照本攻略刷题顺序来刷，刷完了你会发现对整个知识体系有一个质的飞跃，不用在题海茫然的寻找方向。
 
-<div align="center"><strong>最新文章会首发在公众号「代码随想录」，扫码看看吧，你会发现相见恨晚！</strong></img></div>
-
-<div align="center"><img src='./pics/公众号二维码.jpg' width=150 alt=''> </img></div> 
-
 ## 如何使用该刷题攻略
 
 电脑端还看不到留言，大家可以在公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)，左下角有「刷题攻略」，这是手机版刷题攻略，看完就会发现有很多录友（代码随想录的朋友们）在文章下留言打卡，这份刷题顺序和题解已经陪伴了上万录友了，同时也说明文章的质量是经过上万人的考验！
@@ -77,39 +47,7 @@
 
 准备好了么，刷题攻略开始咯，go go go！
 
----------------------------------------------
 
-## 前序
-
-* [「代码随想录」后序安排](https://mp.weixin.qq.com/s/4eeGJREy6E-v6D7cR_5A4g)
-* [「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
-
-
-* 编程语言
-    * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
-* 项目
-    * [基于跳表的轻量级KV存储引擎](https://github.com/youngyangyang04/Skiplist-CPP)
-    * [Nosql数据库注入攻击系统](https://github.com/youngyangyang04/NoSQLAttack)
-
-* 编程素养
-    * [看了这么多代码，谈一谈代码风格！](./problems/前序/代码风格.md)
-    * [力扣上的代码想在本地编译运行？](./problems/前序/力扣上的代码想在本地编译运行？.md)
-    * [什么是核心代码模式，什么又是ACM模式？](./problems/前序/什么是核心代码模式，什么又是ACM模式？.md)
-* 工具 
-    * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
-    * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
-    * [程序员应该用什么用具来写文档？](./problems/前序/程序员写文档工具.md)
-
-* 求职 
-    * [程序员的简历应该这么写！！（附简历模板）](./problems/前序/程序员简历.md)
-    * [BAT级别技术面试流程和注意事项都在这里了](./problems/前序/BAT级别技术面试流程和注意事项都在这里了.md)
-    * [北京有这些互联网公司，你都知道么？](./problems/前序/北京互联网公司总结.md)
-    * [上海有这些互联网公司，你都知道么？](./problems/前序/上海互联网公司总结.md)
-    * [深圳有这些互联网公司，你都知道么？](./problems/前序/深圳互联网公司总结.md)
-    * [广州有这些互联网公司，你都知道么？](./problems/前序/广州互联网公司总结.md)
-    * [成都有这些互联网公司，你都知道么？](./problems/前序/成都互联网公司总结.md)
-    * [杭州有这些互联网公司，你都知道么？](./problems/前序/杭州互联网公司总结.md)
-    
 * 算法性能分析
     * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
     * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
@@ -117,9 +55,7 @@
     * [本周小结！（算法性能分析系列一）](./problems/周总结/20201210复杂度分析周末总结.md)
     * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
-    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
-
-（持续更新中.....）
+    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md) 
 
 ## 知识星球精选
 
@@ -135,13 +71,7 @@
 10. [你的简历里「专业技能」写的够专业么？](https://mp.weixin.qq.com/s/bp6y-e5FVN28H9qc8J9zrg)
 11. [对于秋招，实习生也有烦恼....](https://mp.weixin.qq.com/s/ka07IPryFnfmIjByFFcXDg)
 12. [华为提前批已经开始了.....](https://mp.weixin.qq.com/s/OC35QDG8pn5OwLpCxieStw)
-13. [大厂新人培养体系应该是什么样的？](https://mp.weixin.qq.com/s/WBaPCosOljB5NEkFL2GhOQ)
-
-## 杂谈
-
-* [LeetCode-Master上榜了](https://mp.weixin.qq.com/s/wZRTrA9Rbvgq1yEkSw4vfQ)
-* [大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
-* [一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
+13. [大厂新人培养体系应该是什么样的？](https://mp.weixin.qq.com/s/WBaPCosOljB5NEkFL2GhOQ) 
 
 ## 数组 
 
@@ -259,7 +189,7 @@
 33. [二叉树：构造一棵搜索树](./problems/0108.将有序数组转换为二叉搜索树.md)
 34. [二叉树：搜索树转成累加树](./problems/0538.把二叉搜索树转换为累加树.md)
 35. [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](./problems/二叉树总结篇.md)
- 
+
 ## 回溯算法 
 
 题目分类大纲如下：             
@@ -408,9 +338,7 @@
 1. [单调栈：每日温度](./problems/0739.每日温度.md)
 2. [单调栈：下一个更大元素I](./problems/0496.下一个更大元素I.md)
 3. [单调栈：下一个更大元素II](./problems/0503.下一个更大元素II.md)
-4. [单调栈：接雨水](./problems/0042.接雨水.md)
-
-（持续更新中....）
+4. [单调栈：接雨水](./problems/0042.接雨水.md) 
 
 ## 图论 
 
